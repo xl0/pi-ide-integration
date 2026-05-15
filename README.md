@@ -2,9 +2,7 @@
 
 Pi package template for an IDE integration extension.
 
-https://github.com/user-attachments/assets/demo.mp4
-
-<video src="./demo.mp4" controls muted></video>
+https://github.com/xl0/pi-ide-integration/releases/download/demo/demo.mp4
 
 ## Install
 

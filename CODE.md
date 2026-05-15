@@ -2,7 +2,7 @@
 
 Pi package providing one extension at `extensions/ide-integration/index.ts`.
 
-Repository README now embeds local demo video `demo.mp4`.
+Repository README now links GitHub-hosted release asset `demo.mp4` so the demo is visible from the README on GitHub.
 
 The extension connects to Claude Code IDE WebSocket lock files from `~/.claude/ide` on `session_start`, only when an active lock has `transport: "ws"`, live PID, auth token, and a workspace folder exactly matching Pi's current `cwd`.
 
