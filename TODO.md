@@ -6,4 +6,4 @@
 - [x] Insert deliberate IDE `at_mentioned` references into current editor message.
 - [x] Add `/ide` command for manual reconnect/switch among matching IDE endpoints.
 - [x] Automatically reconnect after lost IDE connections.
-- [ ] Decide whether to reconnect automatically when IDE appears after Pi startup before any successful connection.
+- [x] Auto-reconnect when IDE appears after Pi startup (already built into reconnect loop).
